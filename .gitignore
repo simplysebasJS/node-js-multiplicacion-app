@@ -2,5 +2,8 @@
 
 node_modules/
 dist/
-outputs/
 .vscode/
+
+outputs/
+test-destination/
+coverage/
